@@ -1,2 +1,3 @@
-# lg_001
-lg_001 review
+# ZOEN
+#proyecto_zōen 
+Consultant: Ivan J Weinreb - Freelancer
